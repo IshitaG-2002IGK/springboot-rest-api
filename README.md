@@ -16,7 +16,7 @@
 Test base basic REST api in the browser: 
        http://localhost:8080/
 
-The below json format is depicted:
+The below json format is depicted: -- default (on running)
 ```json
 {
     "one": "two", 
@@ -25,3 +25,5 @@ The below json format is depicted:
     "seven": "eight"
 }
 ```
+
+
